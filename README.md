@@ -4,5 +4,7 @@ A differential wheeled robot is a mobile  robot whose movement is based on two s
 
 ## Contents
 
+1) Design : The document explains various aspects of wheel and motor selection for a differntial drive robot.
 
+2) Kinematics: This document consist of elaborate description of the kinematics associated with a differntial drive robot.
 
